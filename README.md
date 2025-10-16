@@ -1,2 +1,5 @@
 # Beginner-python-projects
-This is the collection of mini projects that I made while learning python.
+A collection of 10 small projects I built while learning Python.
+Each project has its own folder and README.
+
+1. Dice roller- Simulator 
